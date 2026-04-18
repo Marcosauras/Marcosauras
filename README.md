@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Highlighted Skills
 
-[![My Skills](https://skillicons.dev/icons?i=godot,react,linux,c,&perline=5)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=godot,react,linux,c,python&perline=5)](https://skillicons.dev) 
 
 <h3>🔭 I’m currently working on</h3>
 
