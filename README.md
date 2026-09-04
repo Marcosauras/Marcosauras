@@ -25,7 +25,7 @@ Highlighted Skills
 
 <h3>🔭 I’m currently working on</h3>
 
-  A 2D space adventure game where players pilot a spaceship through near-endless waves of enemies.
+  A third person game utilizing unreal engine, and blueprinting
 
 <h3>🌱 I’m currently learning  </h3>
 
