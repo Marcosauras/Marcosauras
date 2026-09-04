@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div align="center"> 
   
 <h1>Hi 👋, I'm Marc</h1>
-<h3>Oregon State University Junior pursuing a Bachelor's in Computer Science - Applied, with a focus in Simulation and Game Programming</h3>
+<h3>Oregon State University Senior pursuing a Bachelor's in Computer Science - Applied, with a focus in Simulation and Game Programming</h3>
 
 <h3> Web Developer • Game Development • Linux</h3>
 
@@ -29,7 +29,7 @@ Highlighted Skills
 
 <h3>🌱 I’m currently learning  </h3>
 
-  More about software testing, debugging, and building reliable applications.
+  More about software testing, debugging, and motion capture.
 
   
 </div>
